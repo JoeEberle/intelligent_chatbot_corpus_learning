@@ -10,7 +10,7 @@ Chatbot instantly scrapes reads any corpus or dataset. Learns it and provides a 
 
 ![Image image_filename](sample.png)
 
-![Image image_filename]("solution_sign.png")
+![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
