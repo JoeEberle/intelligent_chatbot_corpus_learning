@@ -1,4 +1,6 @@
 
+![Image image_filename](solution_sign.png)
+
 # Intelligent Chatbot Corpus Learning  - Chatbot instantly scrapes reads any corpus or dataset. Learns it and provides a conversation about it. 
 Chatbot instantly scrapes reads any corpus or dataset. Learns it and provides a conversation about it. 
 
@@ -9,8 +11,6 @@ Welcome to the solution **Intelligent Chatbot Corpus Learning ** - an example fo
 Chatbot instantly scrapes reads any corpus or dataset. Learns it and provides a conversation about it. 
 
 ![Image image_filename](sample.png)
-
-![Image image_filename](solution_sign.png)
 
 ## Solution Features
 - Easy to understand and use  
