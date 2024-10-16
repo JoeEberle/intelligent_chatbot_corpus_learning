@@ -39,11 +39,8 @@ To get started with the **Intelligent Chatbot Corpus Learning ** solution reposi
  ![additional_image](joe_logo.png)  <br>
     
 
-## Github    
-## https://github.com/JoeEberle/ 
-
-## Email 
-## josepheberle@outlook.com 
+## Github    https://github.com/JoeEberle/ 
+## Email  josepheberle@outlook.com 
 
     
 ![Developer](developer.png)
